@@ -1,0 +1,20 @@
+.container{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    
+}
+.container a{
+    text-decoration: none;
+        
+}
+
+.container button{
+    text-align: left;
+}
+.centrar{
+position: absolute;
+    margin-left: 40%;
+    margin-top: 25px;
+}
